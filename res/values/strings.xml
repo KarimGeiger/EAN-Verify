@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EAN-Verify</string>
+    <string name="error">EAN zu lang!</string>
+    <string name="ean">EAN:</string>
+    <string name="country">Land:</string>
+    <string name="company">Firma:</string>
+    <string name="article">Artikel:</string>
+    <string name="checksum">Pruefziffer:</string>
+    <string name="checksum_calc">Pruefziffer (err.):</string>
+
+</resources>
